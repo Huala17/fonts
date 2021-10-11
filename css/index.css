@@ -106,7 +106,8 @@ a{
     background-color: #eeeeeea9;
     line-height: 10px;
 }
-
-@media(max-width:1680px){
-
+.adv{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
 }
