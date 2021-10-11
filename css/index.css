@@ -58,7 +58,7 @@ a{
     word-spacing: 100px;
 } 
 .back {
-    background: rgba(0, 255, 0, 1);
+    background: rgba(0, 255, 0, 0);
     transform: rotateY(180deg) translateZ(14vw);
 } 
 .top {
@@ -72,7 +72,7 @@ a{
     padding-top: 5vw;
 }
 .bottom {
-    background: rgba(196, 0, 196, 0.7);
+    background: rgba(196, 0, 196, 0);
     transform: rotateX(-90deg) translateZ(14vw);
 }
 .left {
@@ -84,7 +84,7 @@ a{
     line-height: 2vw;
 }
 .right {
-    background: rgba(196, 196, 0, 0.7);
+    background: rgba(196, 196, 0, 0);
     transform: rotateY(90deg) translateZ(14vw);
 }
 
